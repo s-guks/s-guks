@@ -38,7 +38,7 @@ Repository: https://github.com/PenPal-AI/penpal
 
 Link: https://penpal-ai.github.io/penpal/#
 
-# 4. Sofia's Bookstore
+## 4. Sofia's Bookstore
 Sofia's Bookstore uses HTML, CSS, TypeScript, Angular, and Firestore to display a database of books. 
 
 Repository: https://github.com/s-guks/sofia-bookstore
