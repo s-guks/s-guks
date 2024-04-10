@@ -25,7 +25,7 @@ Repository: https://github.com/s-guks/s-guks.github.io
 Link: https://s-guks.github.io/
 
 ## 2. SOULS!
-SOULS! is a card game created for Computer Science Practicum. It was created via agile development (Scrum) using Unity and C#. 
+SOULS! is an original turn-based card game created for Computer Science Practicum. It was created via agile development (Scrum) using Unity and C#. 
 
 Repository: https://github.com/s-guks/CS370-GameChangers
 
