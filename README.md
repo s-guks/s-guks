@@ -32,9 +32,8 @@ Repository: https://github.com/s-guks/CS370-GameChangers
 Link: https://game-changer-s.itch.io/souls
 
 ## 3. PenpalAI
-PenPalAI is currently in progress! We are working on it as a part of an AI Entrepreneurship class. 
 
-PenpalAI is an AI writing assistant created to improve your writing without violating academic integrity. It was created using HTML, CSS, JavaScript, and Bootstrap. 
+PenpalAI is an AI writing assistant created to improve your writing without violating academic integrity. It was created using HTML, CSS, JavaScript, and Bootstrap. PenPalAI is was created as a part of an AI Entrepreneurship class. 
 
 Repository: https://github.com/PenPal-AI/penpal
 
